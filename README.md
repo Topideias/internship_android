@@ -20,7 +20,7 @@ Projeto Teste para Seleção de Estagiário - BackEnd/Android.
 - Faça um pull request do seu test nesse repositório.
 
 
-![test_android logo](test_android.png)
+![test_android android](test_android.jpg)
 
 
 ## DICAS
